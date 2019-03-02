@@ -28,7 +28,7 @@ RStudio Conference
 2019
 ------
 * RStudio Conference GitHub [https://github.com/rstudio/rstudio-conf]
-* "Big Data Class" Workshop [ttps://github.com/rstudio/bigdataclass]
+* "Big Data Class" Workshop [https://github.com/rstudio/bigdataclass]
 * "Applied Machine Learning" Workshop [https://github.com/topepo/rstudio-conf-2019]
 * "Intermediate Shiny" Workshop [https://github.com/aimeegott/RStudio-Conf-Intermediate-Shiny]
 * "Data Science in the tidyverse" Workshop [https://github.com/AmeliaMN/data-science-in-tidyverse]
