@@ -1,7 +1,7 @@
 # Data Science Training Resources
 
 ## Packages
-⋅⋅* [revealjs](https://github.com/hakimel/reveal.js)
+⋅⋅*[revealjs](https://github.com/hakimel/reveal.js)
 ⋅⋅* [Gizmo Toolkit](https://github.com/NYTimes/gizmo)
 
 ### R Package Tutorial(s)
