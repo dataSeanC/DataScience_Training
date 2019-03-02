@@ -1,25 +1,34 @@
-# Data Science Training Resources
+Data Science Training Resources
+======
 
-## Packages
-⋅⋅*[revealjs](https://github.com/hakimel/reveal.js)
-⋅⋅* [Gizmo Toolkit](https://github.com/NYTimes/gizmo)
+Packages
+------
+* revealjs [https://github.com/hakimel/reveal.js]
 
-### R Package Tutorial(s)
-⋅⋅*[dplyr package](https://github.com/justmarkham/dplyr-tutorial)
-⋅⋅* [tidyverse](https://github.com/michaellevy/tidyverse_talk)
+* Gizmo Toolkit [https://github.com/NYTimes/gizmo]
 
-## Data Management
+R Package Tutorial(s)
+------
+* dplyr package [https://github.com/justmarkham/dplyr-tutorial]
+* tidyverse [https://github.com/michaellevy/tidyverse_talk]
 
-## Machine Learning
+Data Management
+------
 
-## Visualization
+Machine Learning
+------
 
-## Mathematics
+Visualization
+------
 
-## RStudio Conference
-### 2019
-⋅⋅* [RStudio Conference GitHub](https://github.com/rstudio/rstudio-conf)
-⋅⋅*["Big Data Class" Workshop](https://github.com/rstudio/bigdataclass)
-⋅⋅* ["Applied Machine Learning" Workshop](https://github.com/topepo/rstudio-conf-2019)
-⋅⋅* ["Intermediate Shiny" Workshop](https://github.com/aimeegott/RStudio-Conf-Intermediate-Shiny)
-⋅⋅* ["Data Science in the tidyverse" Workshop](https://github.com/AmeliaMN/data-science-in-tidyverse)
+Mathematics
+------
+
+RStudio Conference
+2019
+------
+* RStudio Conference GitHub [https://github.com/rstudio/rstudio-conf]
+* "Big Data Class" Workshop [ttps://github.com/rstudio/bigdataclass]
+* "Applied Machine Learning" Workshop [https://github.com/topepo/rstudio-conf-2019]
+* "Intermediate Shiny" Workshop [https://github.com/aimeegott/RStudio-Conf-Intermediate-Shiny]
+* "Data Science in the tidyverse" Workshop [https://github.com/AmeliaMN/data-science-in-tidyverse]
