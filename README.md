@@ -1,16 +1,26 @@
 Data Science Training Resources
 ======
 
-Packages
+R
 ------
-* revealjs [https://github.com/hakimel/reveal.js]
-
-* Gizmo Toolkit [https://github.com/NYTimes/gizmo]
 
 R Package Tutorial(s)
 ------
 * dplyr package [https://github.com/justmarkham/dplyr-tutorial]
 * tidyverse [https://github.com/michaellevy/tidyverse_talk]
+* ggplot2 [https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html]
+
+Python
+------
+Data Classes [https://docs.python.org/3/library/dataclasses.html]
+
+Python Package Tutorial(s)
+------
+
+General Packages
+------
+* revealjs [https://github.com/hakimel/reveal.js]
+* Gizmo Toolkit [https://github.com/NYTimes/gizmo]
 
 Data Management
 ------
@@ -20,9 +30,18 @@ Machine Learning
 
 Visualization
 ------
+* BBC Visual and Data Journalism Cookbook for R Graphics [https://bbc.github.io/rcookbook/]
 
 Mathematics
 ------
+
+AWS
+------
+* List of AWS Guides, Videos, Blogs, and Open Source Repos [https://www.reddit.com/r/aws/comments/axmxo2/a_curated_list_of_amazon_web_services_aws_guides/]
+
+Developer
+------
+* Full Stack Programming with Python and Django [https://github.com/codexplore-io/crash-course-django]
 
 RStudio Conference
 2019
