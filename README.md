@@ -18,6 +18,8 @@ Machine Learning
 R
 ------
 * [Geocomputation with R](https://geocompr.robinlovelace.net/)
+* [R Graph Gallery](https://www.r-graph-gallery.com/)
+* [Building Widgets in R around JS and HTML](http://www.buildingwidgets.com/blog)
 
 R Package(s)
 ------
@@ -27,6 +29,10 @@ R Package(s)
 * [rethinking](https://github.com/rmcelreath/rethinking)
 * [glmer2stan](https://github.com/rmcelreath/glmer2stan)
 * [Caret](https://www.machinelearningplus.com/machine-learning/caret-package/)
+* [data.tree](https://cran.r-project.org/web/packages/data.tree/vignettes/data.tree.html)
+* [d3treeR](https://github.com/d3treeR/d3treeR)
+* [sunburstR](https://www.data-to-viz.com/graph/sunburst.html#code)
+* [circlepackeR](https://github.com/jeromefroe/circlepackeR)
 
 Python
 ------
