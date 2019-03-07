@@ -10,8 +10,8 @@ Statistics
 Machine Learning
 ------
 * [Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
-** [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-** [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
+  * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//)
 * [K-means Cluster Analysis in R](https://uc-r.github.io/kmeans_clustering)
 * [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html#introduction)
 
@@ -71,7 +71,7 @@ Conference(s)
 2019
 ------
 * [RStudio Conference GitHub](https://github.com/rstudio/rstudio-conf)
-** ["Big Data Class" Workshop](https://github.com/rstudio/bigdataclass)
-** ["Applied Machine Learning" Workshop](https://github.com/topepo/rstudio-conf-2019)
-** ["Intermediate Shiny" Workshop](https://github.com/aimeegott/RStudio-Conf-Intermediate-Shiny)
-** ["Data Science in the tidyverse" Workshop](https://github.com/AmeliaMN/data-science-in-tidyverse)
+  * ["Big Data Class" Workshop](https://github.com/rstudio/bigdataclass)
+  * ["Applied Machine Learning" Workshop](https://github.com/topepo/rstudio-conf-2019)
+  * ["Intermediate Shiny" Workshop](https://github.com/aimeegott/RStudio-Conf-Intermediate-Shiny)
+  * ["Data Science in the tidyverse" Workshop](https://github.com/AmeliaMN/data-science-in-tidyverse)
